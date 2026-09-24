@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Task Management App",
+  "description": "A beginner-to-intermediate full-stack MERN application with React, Express, MongoDB models, Bootstrap, and real-time Socket.IO notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
